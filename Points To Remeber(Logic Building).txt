@@ -1,0 +1,4 @@
+1. If you ever come across a question where you have to play with an array or vector with a circular motion (or take the reference of
+   189. Rotate Array), then think of using modulus(if that can be an optimal way)
+
+2. Sorted Array, question needs complexity lesser than O(n) -> Check binary search algo
